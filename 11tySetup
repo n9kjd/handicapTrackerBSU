@@ -1,0 +1,6 @@
+#1/bin/bash
+npm init -y
+npm install @11ty/eleventy
+npx @11ty/eleventy
+echo '<!doctype html><title>Page title</title><p>Hi</p>' > index.html
+echo '# Heading' > README.md
