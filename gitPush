@@ -3,7 +3,7 @@ echo "Adding all files."
 git add .
 echo "Added."
 echo "Committing all files."
-git commit . -m 
+git commit .  
 echo "Committed."
 echo "Pushing to repo."
 git push
